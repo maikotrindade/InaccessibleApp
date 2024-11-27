@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">accessiguide</string>
+    <string name="app_name">accessiGuide</string>
+
+    <string name="login_screen_email_label">Email</string>">
+    <string name="login_screen_password_label">Password</string>">
+    <string name="login_screen_remember_my_email_label">Remember my email</string>">
+
+
 </resources>
